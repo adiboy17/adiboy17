@@ -72,9 +72,7 @@ following operations in the managed nodes:
 🔹 Pull the httpd server image from the Docker Hub
 🔹 Run the docker container and expose it to the public
 🔹 Copy the html code in /var/www/html directory
-and start the web server</a>
-
- - 2021-02-14</p>
+and start the web server</a>- 2021-02-14</p>
 <p><a href="https://www.linkedin.com/posts/adarsh-kr_arth-task11-vimaldaga-activity-6740318220705681408-wOmQ" rel="nofollow">Coin Toss application on Android Studio</a> - 2021-02-13</p>
 <p><a href="https://youtu.be/Y_0KPGsePqY" rel="nofollow">Configure WordPress on AWS EC2 Instance by Using Relational Database Service (RDS)</a> - 2021-02-13</p>
 <p><a href="https://www.linkedin.com/posts/adarsh-kr_adarsh-kumar-python-project-certificate-activity-6766326019277279232-a-cc" rel="nofollow">Python Project on Mouzikka(A Music Player)</a> - 2021-02-13</p>
