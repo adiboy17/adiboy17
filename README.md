@@ -70,24 +70,25 @@ following operations in the managed nodes:
 🔹 Run the docker container and expose it to the public
 🔹 Copy the html code in /var/www/html directory
 and start the web server</a>- 2021-02-14</p>
+==========================
 
 <p><a href="https://www.linkedin.com/posts/iadiboy_benefits-which-mncs-are-getting-from-aiml-activity-6780539239445659648-w-W-" rel="nofollow">Benefits which MNCs are getting from AI/ML and emphasizing the enhancement of AI provided to their products.</a> - 2021-02-13</p>
-
+==========================
 <p><a href="https://www.linkedin.com/posts/iadiboy_vimaldaga-righteducation-educationredefine-activity-6780120619200634880-aAhU">Configure 🔅 Create a key pair
 🔅 Create a security group
 🔅 Launch an instance using the above-created key pair and security group.
 🔅 Create an EBS volume of 1 GB.
 🔅 The final step is to attach the above created EBS volume to the instance you created in the previous steps.</a> - 2021-02-13</p>
-
+==========================
 <p><a href="https://www.linkedin.com/posts/iadiboy_arth-task7-completed-activity-6780066370672496640-uBNg" rel="nofollow">🌀 7.1: Elasticity Task
 🔅(A) - Integrating LVM with Hadoop and providing Elasticity to DataNode Storage
 🔅(B) - Increase or Decrease the Size of Static Partition in Linux.
 🔅(C) - Automating LVM Partition using Python-Script.</a> - 2021-02-13</p>
-
+==========================
 <p><a href="https://www.linkedin.com/posts/iadiboy_arth-task7-completed-activity-6780066370672496640-uBNg" rel="nofollow">Docker Task ()
 🔅(A) - Configuring HTTPD Server on Docker Container
 🔅(B) - Setting up Python Interpreter and running Python Code on Docker Container </a> - 2021-02-13</p>
-
+==========================
 <p><a href="https://www.linkedin.com/posts/iadiboy_create-a-setup-so-that-you-can-ping-google-activity-6779016439744536576-I3vg" rel="nofollow"> Create a Setup so that you can ping google but not able to ping Facebook from the same system</a> - 2021-02-13</p>
 
 </td><td valign="top" width="34%"> 
@@ -97,11 +98,14 @@ and start the web server</a>- 2021-02-14</p>
 
 <p><a href="https://iadiboy.medium.com/how-big-mncs-manipulate-thousands-of-terrabytes-of-data-with-high-speed-and-high-efficiency-f31d1a5b8dad" rel="nofollow">HOW BIG MNC’S MANIPULATE THOUSANDS OF TERRABYTES OF DATA WITH HIGH SPEED AND HIGH EFFICIENCY ?</a> - 2020-12-27</p>
 
+==========================
 <p><a href="https://www.linkedin.com/posts/iadiboy_vimaldaga-righteducation-educationredefine-activity-6747944320529170432-TwfA" rel="nofollow">Research how Kubernetes is used in Industries and what all use cases are solved by Kubernetes?</a> - 2021-01-01</p>
 
+==========================
 <p><a href="https://www.linkedin.com/posts/iadiboy_vimaldaga-righteducation-educationredefine-activity-6747936071822188544-OuiG" rel="nofollow">Create a network Topology Setup in such a way so that System A can ping to two Systems System B and System C but both these systems should not be pinging each other without using any security rule e.g firewall etc.
 </a> - 2020-09-02</p>
 
+==========================
 <p><a href="https://www.linkedin.com/posts/iadiboy_awscloud-awscli-aws-activity-6739212513008771072-lvb3" rel="nofollow">✳️Create High Availability Architecture with AWS CLI
 ✳️The architecture includes-
 
@@ -111,16 +115,24 @@ and start the web server</a>- 2021-02-14</p>
 ⭕Setting up Content Delivery Network using CloudFront and using the origin domain as S3 bucket.
 ⭕Finally place the Cloud Front URL on the webapp code for security and low latency.</a> - 2020-09-02</p>
 
+==========================
 <p><a href="https://www.linkedin.com/pulse/google-cloud-platform-task-completion-govind-singh/" rel="nofollow"> GCP Project: VPC Peering,
  launching Kubernetes Cluster, Creating MySQL Database, launching WordPress.
 </a> - 2020-10-21</p>
 </td><td valign="top" width="33%">
  
+ 
 <h3><a id="user-content-on-going" class="anchor" aria-hidden="true" href="#on-going"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>On Going</h3>
 
 <p><a href="https://raw.githubusercontent.com/adiboy17/workInProgress/master/workInProgress.gif">Ansible Installation on AWS RHEL 8 &amp; Docker Integration on Ansible</a></p>
+
+==========================
 <p><a href="https://raw.githubusercontent.com/adiboy17/workInProgress/master/workInProgress.gif">Launching EC2 Instance on AWS Using Ansible</a></p>
+
+==========================
 <p><a href="https://raw.githubusercontent.com/adiboy17/workInProgress/master/workInProgress.gif">Launching Docker using AWS and Run all Cmd Using Python</a></p>
+
+==========================
 <p><a href="https://raw.githubusercontent.com/adiboy17/workInProgress/master/workInProgress.gif">Deploying Web Server &amp; HAProxy load Balancer on AWS using Ansible</a></p>
 </td></tr></tbody></table> </b>
 
